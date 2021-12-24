@@ -15,3 +15,42 @@
 - [ ] Requisição POST para adicionar um empregado;
 - [ ] Requisição PUT/POST para editar um empregado;
 - [ ] Requisição DELETE para deletar um empregado;
+
+### Pré-requisitos
+
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Git](https://git-scm.com), [XAMPP ou WAMPP ] Utilizei o XAMPP Segue o link: (https://www.apachefriends.org/pt_br/index.html). 
+Além disto é bom ter um editor para trabalhar com o código como [VSCode ou Sublime, Notepad++, PHPStorm...] Utilizei o PHPStorm mas o visual é gratuito e tem praticamente as mesmas funcionalidades ou não...(https://code.visualstudio.com/)
+
+### 🎲 Rodando o Back End (servidor)
+
+```bash
+# Clone este repositório
+$ git clone <https://github.com/tgmarinho/nlw1>
+
+# Acesse a pasta do projeto, ir na pasta banco, copie o arquivo e subir para o mysql utilizando o phpmyadmin por exemplo.
+
+# Ainda na pasta do projeto vá para config e abra com o editor o arquivo "db.php", edite o arquivo como por exemplo abaixo:
+OBS: DIGITE APENAS DENTRO DAS ASPAS...
+define("servidor_sql", "localhost");  >> troque localhost pelo host do seu servidor MySQL
+define("usuario_sql", "root"); >> troque root pelo usuario do seu servidor MySQL
+define("senha_sql", ""); >> dentro das aspas digite a senha do seu servidor MySQL
+define("banco_de_dados", "bancocrud"); >> troque bancocrud pelo nome do banco de dados do seu servidor MySQL
+
+# Pronto, só correr para o abraço
+
+#Todas as requisições deve ser feita utilizando a pasta /api/   exemplo: https://localhost/api/ler.php || < Irar retornar todos os empregados.
+
+### Autor
+---
+
+<a href="https://mdbr.tech/">
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/21254630?v=4" width="100px;" alt=""/>
+ <br />
+ <sub><b>Marcos Antonio ou Tonhão</b></sub></a> <a href="https://mdbr.tech" title="Voialá">🚀</a>
+
+
+Feito com ❤️ por SirTonhão 👋🏽 Entre em contato!
+
+[![Linkedin Badge](https://img.shields.io/badge/-Tony-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcosasneves/)](https://www.linkedin.com/in/marcosasneves/) 
+[![Hotmail Badge](https://img.shields.io/badge/-otherside540n@hotmail.com-c14438?style=flat-square&logo=Hotmail&logoColor=white&link=mailto:otherside540n@hotmail.com)](mailto:otherside540n@hotmail.com)
