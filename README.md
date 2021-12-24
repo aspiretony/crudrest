@@ -28,16 +28,16 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode ou Su
 # Clone este repositório
 $ git clone <https://github.com/aspiretony/crudrest>
 ```
-Acesse a pasta do projeto, ir na pasta banco, copie o arquivo e subir para o mysql utilizando o phpmyadmin por exemplo.
-
-Ainda na pasta do projeto vá para config e abra com o editor o arquivo "db.php", edite o arquivo como por exemplo abaixo:
-
-OBS: DIGITE APENAS DENTRO DAS ASPAS...
-define("servidor_sql", "localhost");  >> troque localhost pelo host do seu servidor MySQL;
-define("usuario_sql", "root"); >> troque root pelo usuario do seu servidor MySQL;
-define("senha_sql", ""); >> dentro das aspas digite a senha do seu servidor MySQL;
-define("banco_de_dados", "bancocrud"); >> troque bancocrud pelo nome do banco de dados do seu servidor MySQL;
-
+Acesse a pasta do projeto, ir na pasta banco, copie o arquivo e subir para o mysql utilizando o phpmyadmin por exemplo. <br>
+<br>
+Ainda na pasta do projeto vá para config e abra com o editor o arquivo "db.php", edite o arquivo como por exemplo abaixo: <br>
+<br>
+OBS: DIGITE APENAS DENTRO DAS ASPAS...<br>
+define("servidor_sql", "localhost");  >> troque localhost pelo host do seu servidor MySQL;<br>
+define("usuario_sql", "root"); >> troque root pelo usuario do seu servidor MySQL;<br>
+define("senha_sql", ""); >> dentro das aspas digite a senha do seu servidor MySQL;<br>
+define("banco_de_dados", "bancocrud"); >> troque bancocrud pelo nome do banco de dados do seu servidor MySQL;<br>
+<br>
 # Pronto, só correr para o abraço
 
 #Todas as requisições deve ser feita utilizando a pasta /api/   exemplo: https://localhost/api/ler.php || < Irar retornar todos os empregados.
