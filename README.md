@@ -26,8 +26,8 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode ou Su
 
 ```bash
 # Clone este repositório
-$ git clone <https://github.com/tgmarinho/nlw1>
-
+$ git clone <https://github.com/aspiretony/crudrest>
+```
 # Acesse a pasta do projeto, ir na pasta banco, copie o arquivo e subir para o mysql utilizando o phpmyadmin por exemplo.
 
 # Ainda na pasta do projeto vá para config e abra com o editor o arquivo "db.php", edite o arquivo como por exemplo abaixo:
