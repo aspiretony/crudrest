@@ -1,0 +1,6 @@
+<?php
+
+$host = "localhost"; //DATABASE PARA CONECATAR
+$usuario = "root"; //.....
+$senha = ""; //.........
+$banco_de_dados = "bancocrud"; // .......................... auto explicativo kkk
