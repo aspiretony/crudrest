@@ -13,7 +13,7 @@
 - [x] Requisição GET para pegar todos os empregados[24/12/2021];
 - [ ] Requisição GET pegar um único empregado;
 - [ ] Requisição POST para adicionar um empregado;
-- [ ] Requisição PUT/POST para editar um empregado;
+- [ ] Requisição PUT/PATCH para editar um empregado;
 - [ ] Requisição DELETE para deletar um empregado;
 
 ### Pré-requisitos
