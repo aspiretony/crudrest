@@ -18,9 +18,9 @@
 
 ### Pré-requisitos
 
-Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com), [XAMPP ou WAMPP ] Utilizei o XAMPP Segue o link: (https://www.apachefriends.org/pt_br/index.html). 
-Além disto é bom ter um editor para trabalhar com o código como [VSCode ou Sublime, Notepad++, PHPStorm...] Utilizei o PHPStorm mas o visual é gratuito e tem praticamente as mesmas funcionalidades ou não...(https://code.visualstudio.com/)
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas: <br>
+[Git](https://git-scm.com), [XAMPP ou WAMPP ] Utilizei o XAMPP Segue o link: (https://www.apachefriends.org/pt_br/index.html). <br>
+Além disto é bom ter um editor para trabalhar com o código como [VSCode ou Sublime, Notepad++, PHPStorm...] Utilizei o PHPStorm mas o visual é gratuito e tem praticamente as mesmas funcionalidades ou não...(https://code.visualstudio.com/) <br>
 
 ### 🎲 Rodando o Back End (servidor)
 
