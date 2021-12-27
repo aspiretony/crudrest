@@ -15,6 +15,7 @@
 - [x] Requisição POST para adicionar um empregado[26/12/2021];
 - [x] Requisição PUT/POST para editar um empregado[27/12/2021];
 - [x] Requisição DELETE para deletar um empregado[27/12/2021];
+- [ ] Requisição PATCH para atualizar apenas um atributo // Em breve....
 
 ### Pré-requisitos
 
