@@ -11,10 +11,10 @@
 - [x] Conexão com o banco de dados [23/12/2021];
 - [x] Requisições ao banco de dados da tabela empregados como exemplo[23/12/2021];
 - [x] Requisição GET para pegar todos os empregados[24/12/2021];
-- [ ] Requisição GET pegar um único empregado;
-- [ ] Requisição POST para adicionar um empregado;
-- [ ] Requisição PUT/PATCH para editar um empregado;
-- [ ] Requisição DELETE para deletar um empregado;
+- [x] Requisição GET pegar um único empregado[26/12/2021];
+- [x] Requisição POST para adicionar um empregado[26/12/2021];
+- [x] Requisição PUT/POST para editar um empregado[27/12/2021];
+- [x] Requisição DELETE para deletar um empregado[27/12/2021];
 
 ### Pré-requisitos
 
